@@ -26,13 +26,13 @@ To run this project locally, follow these steps:
    ```
 2. Install dependencies
 
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 3. Set up the backend (Java) and ensure the ESP32 is connected to your network.
 
 4. Run the app in development mode
 
-```bash
-npx expo start
-```
+  ```bash
+  npx expo start
+  ```
