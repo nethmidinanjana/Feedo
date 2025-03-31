@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 ## 📸 Screenshots
 
 <div style="display: flex;">
-  <img src="ss/1.png" width="300" />&nbsp;&nbsp;&nbsp;
-  <img src="ss/2.png" width="300" />
+  <img src="ss/1.png"  height="400" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/2.png"  height="400"/>
 </div>
 
