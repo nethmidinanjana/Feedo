@@ -34,3 +34,11 @@ To run this project locally, follow these steps:
   ```bash
   npx expo start
   ```
+
+## 📸 Screenshots
+
+<div style="display: flex;">
+  <img src="ss/1.png" width="300" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/2.png" width="300" />
+</div>
+
